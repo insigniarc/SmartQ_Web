@@ -1,2 +1,2 @@
 # SmartQ_Web
-Queue management system on Web
+Queue management system using Web
